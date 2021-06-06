@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @codewall101
+- 👋 Hi, I’m @Aniket Pai
 - 👀 I’m interested in learning new frameworks
 - 🌱 I’m currently learning Vue Js
 - 💞️ I’m looking to collaborate on nothing important yet
